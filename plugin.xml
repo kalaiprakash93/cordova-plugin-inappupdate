@@ -19,7 +19,6 @@
 		</js-module>
     <!-- android -->
     <platform name="android">	
-		<framework src="com.android.support:support-v4:+" />
 		<framework src="com.google.android.play:core:1.5.0" />
 		<framework src="com.android.support:design:28.0.0" />
         <config-file target="res/xml/config.xml" parent="/*">
