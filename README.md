@@ -15,7 +15,7 @@ This plugin establishes the functionality for downloading the app in background
 });
 
 **For Mandatory Update:**
-window.inappupdate("inAppUpdate", [{
+>window.inappupdate("inAppUpdate", [{
 			"updateIndicator": "mandatory",
 			"displayMessage": "An update has just been downloaded",
 			"actionBtn": "Install"
