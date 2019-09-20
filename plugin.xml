@@ -27,5 +27,6 @@
             </feature>
         </config-file>
         <source-file src="src/android/inAppUpdate.java" target-dir="src/com/idp/study/abroad/" />
+	    <framework src="src/android/inappupdate.gradle" custom="true" type="gradleReference"/>
     </platform>
 </plugin>
